@@ -9,8 +9,21 @@ code that manipulates that data.
 it's useful for an object to have a type – or belong to a class – is because it allows us to build a bunch of useful tools that
 can be packed directly into the object itself.
 
-    Core Python Classes are: Integers, Floats, Strings, Booleans, Lists, Dictionaries, Tuples, Sets, Frozensets, Functions, Ranges,
-    None, Custom defined.
+    Core Python Classes are:
+        
+        Integers
+        Floats
+        Strings
+        Booleans
+        Lists
+        Dictionaries
+        Tuples
+        Sets
+        Frozensets
+        Functions
+        Ranges
+        None
+        Custom Defined
 
 <ins>Method</ins>: A function that belongs to a class and typically performs an action or operation. Most coding environments
 have ways to access a list of methods available to a given class (E.g., In Jupyter Notebook, we type dot and then hit the tab key).
