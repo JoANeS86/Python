@@ -34,6 +34,20 @@ within a package or a library).
 NumPy's power comes from vectorization: Vectorization enables operations to be performed on multiple components of a data object
 at the same time.
 
+The array (*N-dimensional array*, or *ndarray* for short) is the core data structure of NumPy. To create an array,
+first I have to import NumPy, then the standard practice is to alias the array as np.
+
+If I use the type() function on an array, it'll return NumPy array, so if I want to check the data type of the contents of an array,
+then I'll use the NumPy attribute dtype().
+
+Another NumPy attributes and methods are:
+
+    shape: A NumPy attribute used to check the shape of an array.
+    ndim: A NumPy attribute used to check the number of dimensions of an array.
+    reshape(): NumPy method used to change the shape of an array.
+
+
+
 
 
 
