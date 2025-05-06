@@ -29,7 +29,10 @@ within a package or a library).
 
 <ins>Global Variables</ins>: Variables that can be accessed from anywhere in a program or script.
 
+## NumPy
 
+NumPy's power comes from vectorization: Vectorization enables operations to be performed on multiple components of a data object
+at the same time.
 
 
 
