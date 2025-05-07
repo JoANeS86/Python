@@ -46,7 +46,20 @@ Another NumPy attributes and methods are:
     ndim: A NumPy attribute used to check the number of dimensions of an array.
     reshape(): NumPy method used to change the shape of an array.
 
+## Pandas
 
+Pandas' key functionality is the manipulation and analysis of tabular data (data that is in the form of a table).
+
+NumPy is capable of many of the tasks that Pandas covers, but Pandas provides a simple interface that allows you to display your
+data as rows and columns.
+
+Core Pandas object classes are DataFrames and Series.
+
+If I want to select rows or columns by index, I'll need to use iloc[] (stands for "integer location"):
+
+    iloc[]: A way to indicate in Pandas that you want to select by integer-location-based position.
+
+Then, loc[] is similar to iloc[], but instead of selecting Pandas rows and columns by index, it selects them by name.
 
 
 
