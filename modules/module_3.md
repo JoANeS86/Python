@@ -57,6 +57,44 @@ Instantiate a counter and create a While Loop that prints "not there yet," incre
             continue
         i += 1
 
+## Introduction to For Loops
 
+For Loops are like While Loops, but instead of looping continuously until a condition is met, For Loops iterate over each
+element of an iterable sequence, allowing you to perform an action or evaluation with each iteration.
 
+The basic syntax of a For Loop is as follows:
+
+    for item in iterable_sequence:
+       # Code block to be executed for each value in iterable_sequence
+
+Sometimes you need to perform a task a set number of times, but you don’t already have an iterable object to loop over.
+Or, sometimes you need to generate a known, regular sequence of numbers. This is where the **range()** function is useful.
+
+The range() function is a function that takes three arguments: start, stop, step. Its output is an object belonging to the
+range class. If you only include one argument, it will be interpreted as the stop value. The start and step values by default
+will be zero and one, respectively. If you include two arguments, they will be interpreted as the start and stop values (again,
+with step being one by default). Note that the stop value is not included in the range that is returned.
+
+<ins>Examples</ins>:
+
+    for i in range(3):
+       print(i)
     
+    for n in range(2, 5):
+       print(n)
+    
+    for even_num in range(2, 11, 2):
+       print(even_num)
+
+
+
+
+
+
+
+
+
+
+
+
+
