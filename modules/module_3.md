@@ -1,5 +1,11 @@
 ## Introduction to While Loops
 
+A while loop allows you to repeatedly execute a block of code while a certain condition is true. You can use the **break**
+statement to exit the loop prematurely, and the **continue** statement to skip to the next iteration of the loop without executing
+the rest of the code in the current iteration.
+
+<ins>Example 1</ins>:
+
 Instantiate a counter and create a While Loop that prints "not there yet," increments x by 1, and prints x until x reaches 5.
 
     x = 0
@@ -9,7 +15,7 @@ Instantiate a counter and create a While Loop that prints "not there yet," incre
         x = x + 1
         print('x=' + str(x))
 
-Another While Loop example:
+<ins>Example 2</ins>:
 
     # Import the random module to be able to create a (pseudo) random number.
     
@@ -40,6 +46,16 @@ Another While Loop example:
     
     else:
         print('You did not guess the number. The number was ' + str(number) + '.')
+
+<ins>Example 3</ins>:
+
+    i = 0
+    while i < 10:
+        if i % 3 != 0:
+            print(i)
+            i += 1
+            continue
+        i += 1
 
 
 
