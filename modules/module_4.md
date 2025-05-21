@@ -1,4 +1,17 @@
+## Lists
 
+The two main ways to create lists in Python are square brackets: [],  and the list() function.
+
+You can create lists of strings, integers, lists of mixed data types or even empty lists.
+
+Lists are mutable, which means that you can change their contents after they are created.
+
+Lists can be combined using the addition operator (+), and multiplied using the multiplication operator (*), but they can't
+be subtracted or divided.
+
+List methods: append(), insert(), remove(), clear(), index(), count(), sort()
+
+## Arrays and vectors with NumPy, Dataframes with pandas
 
 <ins>Library (or package)</ins>: Broadley refers to a reusable collection of code.
 
@@ -35,10 +48,10 @@ NumPy's power comes from vectorization: Vectorization enables operations to be p
 at the same time.
 
 The array (*N-dimensional array*, or *ndarray* for short) is the core data structure of NumPy. To create an array,
-first I have to import NumPy, then the standard practice is to alias the array as np.
+first you have to import NumPy, then the standard practice is to alias the array as np.
 
-If I use the type() function on an array, it'll return NumPy array, so if I want to check the data type of the contents of an array,
-then I'll use the NumPy attribute dtype().
+If you use the type() function on an array, it'll return NumPy array, so if you want to check the data type of the contents of an array,
+then you'll use the NumPy attribute dtype().
 
 Another NumPy attributes and methods are:
 
@@ -55,7 +68,7 @@ data as rows and columns.
 
 Core Pandas object classes are DataFrames and Series.
 
-If I want to select rows or columns by index, I'll need to use iloc[] (stands for "integer location"):
+If you want to select rows or columns by index, you'll need to use iloc[] (stands for "integer location"):
 
     iloc[]: A way to indicate in Pandas that you want to select by integer-location-based position.
 
