@@ -25,7 +25,8 @@
 
   10. Use the sample() function
 
-    It proves particularly helpful while dealing with huge datasets where we want to test or analyze a small representative subset.
+    It proves particularly helpful while dealing with huge datasets where we want to test or analyze
+    a small representative subset.
 
   11. Use visualizations
 
