@@ -15,17 +15,17 @@
 <ins>Statistical tests</ins>
 
   8. Use the describe() function
-  9. *Convert a date to datetime*
+  9. Convert a date to datetime
 
-  This is an important step in data cleaning, as it makes the data in this column easier to use in tasks you may encounter.
-  To name a few examples, you may need to compare "date joined" between companies or determine how long it took a company to
-  become a unicorn. Having "date joined" in datetime form would help you complete such tasks.
+    This is an important step in data cleaning, as it makes the data in this column easier to use in tasks you may encounter.
+    To name a few examples, you may need to compare "date joined" between companies or determine how long it took a company to
+    become a unicorn. Having "date joined" in datetime form would help you complete such tasks.
 
 <ins>Results and evaluation</ins>
 
   10. Use the sample() function
 
-  It proves particularly helpful while dealing with huge datasets where we want to test or analyze a small representative subset.
+    It proves particularly helpful while dealing with huge datasets where we want to test or analyze a small representative subset.
 
   11. Use visualizations
 
