@@ -22,6 +22,15 @@
   <img src="https://github.com/user-attachments/assets/eae7e89d-c51f-45fd-9fa8-877fababab8a" />
 </p>
 
+- Course 8: String Functions
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4be9687e-bb27-44e1-b81f-c1b3451f89ab" />
+</p>
+
+
+
+
 
 
 
