@@ -28,6 +28,29 @@
   <img src="https://github.com/user-attachments/assets/4be9687e-bb27-44e1-b81f-c1b3451f89ab" />
 </p>
 
+I can use lstrip(), rstrip() and strip() to remove spaces and the start or at the end, and in case I want to remove a different character, I'll need to add it between the parenthesis (e.g., strip("#")).
+
+I can also uses those methods combined with len(), to review the number of white spaces in a large text.
+
+Methods upper() and lower() are used to return characters in upper or lower case; startswith(), endswith(), find() and in are used to search for something; and isalpha() and isnumeric() are used to check and validate the content of our string.
+
+- Course 9:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
