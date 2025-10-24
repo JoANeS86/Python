@@ -36,6 +36,20 @@ Methods upper() and lower() are used to return characters in upper or lower case
 
 - Course 9:
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9a7aadc7-ef1f-40f6-874a-ccecaddece0e" />
+</p>
+
+If a number is as a string data type, and you multiply it by 3, python will repeat the number 3 times rather than actually multiplying it by 3.
+
+Some few notes about operators:
+
+            Operator "//" it divides two numbers and rounds down.
+            Operator "%" will return the leftover after a division (used to check if a number is even).
+            Operator "**" acts as exponentiation.
+
+
+
 
 
 
