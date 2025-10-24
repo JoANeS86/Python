@@ -48,15 +48,9 @@ Some few notes about operators:
             Operator "%" will return the leftover after a division (used to check if a number is even).
             Operator "**" acts as exponentiation.
 
+Round() uses banker's rounding, which rounds .5 to the nearest even number.
 
-
-
-
-
-
-
-
-
+- Course 10:
 
 
 
