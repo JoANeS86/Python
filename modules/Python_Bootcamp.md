@@ -19,13 +19,13 @@
   Functions vs Methods:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eae7e89d-c51f-45fd-9fa8-877fababab8a" />
+  <img src="https://github.com/user-attachments/assets/18e37fd9-f6f9-47df-81c7-d4faf7e7caa2" />
 </p>
 
 - Course 8: String Functions
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4be9687e-bb27-44e1-b81f-c1b3451f89ab" />
+  <img src="https://github.com/user-attachments/assets/21e098a7-84e8-4e74-8a71-9ed160091d11" />
 </p>
 
 I can use lstrip(), rstrip() and strip() to remove spaces and the start or at the end, and in case I want to remove a different character, I'll need to add it between the parenthesis (e.g., strip("#")).
@@ -51,6 +51,17 @@ Some few notes about operators:
 Round() uses banker's rounding, which rounds .5 to the nearest even number.
 
 - Course 10:
+
+<ins>Control Flow</ins>: It's the logic you write to control how your code runs.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/24f1afb8-4f5c-486c-bbc6-6a50a0815128" />
+</p>
+
+- Course 11:
+
+
+
 
 
 
